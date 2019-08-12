@@ -1,7 +1,11 @@
 <center><span style="font-family:Didot; font-size:2.5em;">T'Keya Joy Stevens</span></center>
+
 <center><span style="font-family:Didot; font-size:1.5em;">**Website:**[https://tjstevens.info](https://tjstevens.info)</span></center>
+
 <center><span style="font-family:Didot; font-size:1.5em;">**Github:**[Pixelynx](https://github.com/Pixelynx)</span></center>
+
 <center><span style="font-family:Didot; font-size:1.5em;">**Email:**[tjstevens1992@gmail.com](tjstevens1992@gmail.com)</span></center>
+
 <center><span style="font-family:Didot; font-size:1.5em;">Brooklyn, NY 11233
 </span></center>
 
