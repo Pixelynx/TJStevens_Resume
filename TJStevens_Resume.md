@@ -1,5 +1,4 @@
 # T'Keya Joy Stevens
-- - - -
 
 **Website:** [T'Keya Stevens' Portfolio](https://tjstevens.info)
 
@@ -7,17 +6,17 @@
 
 **Email:** [tjstevens1992@gmail.com](mailto:tjstevens1992@gmail.com)
 
-Brooklyn, NY 11233
+**Location:** Brooklyn, NY 11233
 <br />
+- - -
 
-
-Programming Languages
+## Programming Languages
 <br />
 - - - -
 
 > * HTML5, CSS3, React.js, Express.js, Node.js, Redux.js, PostgreSQL, AJAX, ES6 
 
-Projects
+## Projects
 <br />
 - - - -
 
@@ -34,7 +33,7 @@ Projects
 > * Implemented messaging functionality for the individual chat rooms using React and Pusher's Chatkit WebSocket API 
 > * Utilized: HTML/CSS, React, Git
 
-Education
+## Education
 <br />
 - - - -
 
@@ -46,7 +45,7 @@ Education
 
 **Web Design, CUNY Queens College(2011 - 2012)**   
 
-Experience
+## Experience
 <br />
 - - - -
 
