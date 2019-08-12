@@ -1,4 +1,4 @@
-<font size="100px"><p align="center" font-size="">T'Keya Joy Stevens</p></font>
+<font size="100"><p align="center" font-size="">T'Keya Joy Stevens</p></font>
 
 **Website:** [T'Keya Stevens' Portfolio](https://tjstevens.info) |
 **Github:** [Pixelynx](https://github.com/Pixelynx) |
