@@ -1,10 +1,10 @@
-T'Keya Joy Stevens
+#T'Keya Joy Stevens
 
 **Website:** [https://tjstevens.info](https://tjstevens.info)
 
-**Github:**[Pixelynx](https://github.com/Pixelynx)
+**Github:** [Pixelynx](https://github.com/Pixelynx)
 
-**Email:**[tjstevens1992@gmail.com](tjstevens1992@gmail.com)
+**Email:** [tjstevens1992@gmail.com](tjstevens1992@gmail.com)
 
 Brooklyn, NY 11233
 
