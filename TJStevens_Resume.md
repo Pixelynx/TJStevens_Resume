@@ -1,9 +1,9 @@
 <h1><p align="center" font-size="">T'Keya Joy Stevens</p></h1>
 
-**Website:** [T'Keya Stevens' Portfolio](https://tjstevens.info) |
-**Number:** (917) 652-2692 |
+**Site:** [T'Keya Stevens' Portfolio](https://tjstevens.info) |
+**Cell:** (917) 652-2692 |
 **Email:** [tjstevens1992@gmail.com](mailto:tjstevens1992@gmail.com) |
-**Location:** Brooklyn, NY 11233
+**Home:** Brooklyn, NY 11233
 
 - - - -
 
