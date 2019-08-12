@@ -1,10 +1,8 @@
 # T'Keya Joy Stevens
-**Website:** [T'Keya Stevens' Portfolio](https://tjstevens.info)
-**Github:** [Pixelynx](https://github.com/Pixelynx)
-**Email:** [tjstevens1992@gmail.com](mailto:tjstevens1992@gmail.com)
+**Website:** [T'Keya Stevens' Portfolio](https://tjstevens.info) |
+**Github:** [Pixelynx](https://github.com/Pixelynx) |
+**Email:** [tjstevens1992@gmail.com](mailto:tjstevens1992@gmail.com) |
 **Location:** Brooklyn, NY 11233
-
-<br />
 
 - - - -
 
@@ -69,7 +67,7 @@
 <br />
 
 **Cash Wrap Assiciate, Uniqlo USA(2014 - 2016)**   
-    
+
 > * Follow the same guidelines that we discussed in the first example
 > * Always as yourself 'What does this experience add to my resume? What gaps does it fill?
 > * This will help you figure out what to say!
