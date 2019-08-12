@@ -1,21 +1,23 @@
 # T'Keya Joy Stevens
+- - - -
 
-**Website:** [https://tjstevens.info](https://tjstevens.info)
+**Website:** [T'Keya Stevens' Portfolio](https://tjstevens.info)
 
 **Github:** [Pixelynx](https://github.com/Pixelynx)
 
-**Email:** [tjstevens1992@gmail.com](tjstevens1992@gmail.com)
+**Email:** [tjstevens1992@gmail.com](mailto:tjstevens1992@gmail.com)
 
 Brooklyn, NY 11233
+<br />
 
 
-<span style="font-family:Didot; font-size:2em;">Programming Languages</span>
+Programming Languages
 <br />
 - - - -
 
 > * HTML5, CSS3, React.js, Express.js, Node.js, Redux.js, PostgreSQL, AJAX, ES6 
 
-<span style="font-family:Didot; font-size:2em;">Projects</span>
+Projects
 <br />
 - - - -
 
@@ -32,7 +34,7 @@ Brooklyn, NY 11233
 > * Implemented messaging functionality for the individual chat rooms using React and Pusher's Chatkit WebSocket API 
 > * Utilized: HTML/CSS, React, Git
 
-<span style="font-family:Didot; font-size:2em;">Education</span>
+Education
 <br />
 - - - -
 
@@ -44,7 +46,7 @@ Brooklyn, NY 11233
 
 **Web Design, CUNY Queens College(2011 - 2012)**   
 
-<span style="font-family:Didot; font-size:2em;">Experience</span>
+Experience
 <br />
 - - - -
 
