@@ -48,16 +48,12 @@
 
 **Transcriber, Productive Playhouse(2016 - 2018)**  
 
-<li>Create bullet points that reflect action, make the action word the first word in the bullet point</li>
-<li>Communicate important job responsibilities that are relevant to the position at hand</li>
-<li>Use numbers where applicable. Don't just say 'I increased sales' say 'I increased sales by 10%'</li>
-<li>Always place actions in the present tense, you still possess these skills.</li>
+<li>Transcribed over 900 projects per year</li>
+<li>Consistently met or exceeded company transcription goals for accuracy and speed</li>
 
 <br />
 
 **Cash Wrap Assiciate, Uniqlo USA(2014 - 2016)**   
 
-<li>Follow the same guidelines that we discussed in the first example</li>
-<li>Always as yourself 'What does this experience add to my resume? What gaps does it fill?</li>
-<li>This will help you figure out what to say!</li>
-<li>Keep your bullet points to one sentence, say more with less.</li>
+<li>Trained approximately 20 employees in customer service practices and store routines</li>
+<li>Managed customer service and cash drawers for the NYC flagship store, bringing in $80,000 to $100,000 revenue daily (200+ transactions/day)</li>
