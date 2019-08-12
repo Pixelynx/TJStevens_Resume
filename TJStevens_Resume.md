@@ -4,12 +4,16 @@
 **Email:** [tjstevens1992@gmail.com](mailto:tjstevens1992@gmail.com)
 **Location:** Brooklyn, NY 11233
 <br />
+
 - - - -
+
 ## Programming Languages
 <br />
 > * HTML5, CSS3, React.js, Express.js, Node.js, Redux.js, PostgreSQL, AJAX, ES6 
 <br />
+
 - - - -
+
 ## Projects
 <br />
 **[DiffRent](https://diff-rent.herokuapp.com)**                                
@@ -22,7 +26,9 @@
 > * Implemented messaging functionality for the individual chat rooms using React and Pusher's Chatkit WebSocket API 
 > * Utilized: HTML/CSS, React, Git
 <br />
+
 - - - -
+
 ## Education
 <br />
 **Pursuit(2018 - 2019)**                                
@@ -30,7 +36,9 @@
 > * Gained hands-on experience with multiple languages; with a focus on a React.js and a Node.js, APIs, Git, Data Structures, Algorithms, and tech principles and culture via team/individual projects, code reviews, and pair programming.
 <br />
 **Web Design, CUNY Queens College(2011 - 2012)**   
+
 - - - -
+
 ## Experience
 <br />
 **Transcriber, Productive Playhouse(2016 - 2018)**              
