@@ -7,19 +7,13 @@
 
 - - - -
 
-## Programming Languages
-
-<br />
+## Skills
 
 <li>HTML5, CSS3, React.js, Express.js, Node.js, Redux.js, PostgreSQL, AJAX, ES6</li>
-
-<br />
 
 - - - -
 
 ## Projects
-
-<br />
 
 **[DiffRent](https://diff-rent.herokuapp.com)**   
 
@@ -35,13 +29,9 @@
 <li>Implemented messaging functionality for the individual chat rooms using React and Pusher's Chatkit WebSocket API</li>
 <li>Utilized: HTML/CSS, React, Git</li>
 
-<br />
-
 - - - -
 
 ## Education
-
-<br />
 
 **Pursuit(2018 - 2019)** 
 
@@ -55,8 +45,6 @@
 - - - -
 
 ## Experience
-
-<br />
 
 **Transcriber, Productive Playhouse(2016 - 2018)**  
 
