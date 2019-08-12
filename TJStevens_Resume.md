@@ -1,4 +1,4 @@
-<p align="center">T'Keya Joy Stevens</p>
+# <p align="center" size="">T'Keya Joy Stevens</p>
 
 **Website:** [T'Keya Stevens' Portfolio](https://tjstevens.info) |
 **Github:** [Pixelynx](https://github.com/Pixelynx) |
