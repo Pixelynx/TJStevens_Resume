@@ -17,7 +17,7 @@
 
 **[DiffRent](https://diff-rent.herokuapp.com)**   
 
-*A web app used to streamline tenant and landlord communication*
+**A web app used to streamline tenant and landlord communication**
 <li>Designed a ticketing feature with separate tenant and landlord portals allowing tenants to express concerns and coordinate with landlords to schedule time to address issues</li>
 <li>Implemented the feature backed by a SQL database using Express and React</li>
 <li>Delivered the feature and demo-able MVP in under a month</li>
@@ -27,7 +27,7 @@
 
 **[Queue & A](https://github.com/Pixelynx/QueueNA)**   
 
-*A web-based chatroom application*
+**A web-based chatroom application**
 <li>Built a chatroom app in a Hackathon team with a two-day deadline</li>
 <li>Implemented messaging functionality for the individual chat rooms using React and Pusher's Chatkit WebSocket API</li>
 <li>Utilized: HTML/CSS, React, Git</li>
@@ -37,7 +37,7 @@
 
 **[Vimeo Layout](https://pixelynx.github.io/)**  
 
-*A responsive replication of the Vimeo layout and carousel*
+**A responsive replication of the Vimeo layout and carousel**
 <li>Designed component to display video descriptions and images alternating sides </li>
 <li>Designed carousel components to showcase onDemand videos</li>
 <li>Made effective use of React bootstrap to make layout responsive for all screen sizes</li>
